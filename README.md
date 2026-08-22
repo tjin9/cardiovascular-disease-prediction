@@ -83,3 +83,7 @@ jupyter notebook source_code.ipynb
 - Matplotlib, Seaborn
 - Scikit-learn (`StandardScaler`, `SelectKBest`, `PCA`, `DecisionTreeClassifier`, `RandomForestClassifier`, `KNeighborsClassifier`)
 
+## Author
+
+**Tasneem** — Computer Science student, self-studying Data Science & AI.
+[GitHub: tjin9](https://github.com/tjin9)
