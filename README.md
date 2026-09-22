@@ -1,6 +1,7 @@
 # Cardiovascular Disease Prediction 🫀
 
 A machine learning project that predicts whether a person has cardiovascular disease based on medical and lifestyle features such as age, blood pressure, cholesterol, weight, and physical activity.
+> This project was completed as a university project by a team of students.
 
 ## 📊 Dataset
 
